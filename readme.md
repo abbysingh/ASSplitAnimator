@@ -3,7 +3,7 @@ ASSplitAnimator
 
 A library for replacing default push and pop navigation animations with a nice split screen animation
 
-
+![output](https://cloud.githubusercontent.com/assets/3872429/5856693/6ed67d6c-a26b-11e4-8adb-2a10485fd99b.gif)
 
 Usage
 =====
@@ -14,6 +14,12 @@ Developed By
 ============
 
  * Abheyraj Singh - <abheyrajsingh@gmail.com>
+
+TO DO
+===========
+
+Add support for splitting at any point
+Add support for horizontal and vertical splitting
 
 
 License
